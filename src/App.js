@@ -1,15 +1,10 @@
-
+import 'tailwindcss/tailwind.css';
+import NavBar from './component.jsx/navBar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-       
-      </header>
+      <NavBar/>
     </div>
   );
 }
