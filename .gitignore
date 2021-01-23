@@ -5,7 +5,8 @@
 /.pnp
 .eslintcache
 .pnp.js
-
+.eslint-release-info.json
+.temp-eslintcache
 # testing
 /coverage
 
